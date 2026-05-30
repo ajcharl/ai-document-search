@@ -124,6 +124,4 @@ If the answer is not in the uploaded documents, the model will say it does not k
 - **First request is slow** — the embedding model and Mistral are still warming up / downloading.
 - **PDF extracted no text** — the PDF is likely scanned images. OCR is not included here; convert to text first.
 
-## License
 
-MIT (or your choice).
