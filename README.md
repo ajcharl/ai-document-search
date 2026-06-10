@@ -18,8 +18,6 @@ A fully local, free **Retrieval-Augmented Generation** app. Upload PDF or TXT do
 - **LLM:** Ollama running `mistral` (local)
 - **PDF parsing:** `pypdf`
 
-No OpenAI, no paid services, nothing leaves your machine.
-
 ## Project architecture
 
 ```
